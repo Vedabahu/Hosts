@@ -10,3 +10,8 @@ ff02::1		ip6-allnodes
 ff02::2		ip6-allrouters
 ff02::3		ip6-allhosts
 #fe80::1%lo0	localhost
+
+
+127.0.0.1 endingdespond.uno
+127.0.0.1 anahitagirted.uno
+127.0.0.1 23.109.248.175
